@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\ElezthemGameDev ( RacingGame )\ElezthemGameDev ( RacingGame )\bin\Debug\ElezthemGameDev ( RacingGame ).exe.config
+C:\Users\Acer\source\repos\ElezthemGameDev ( RacingGame )\ElezthemGameDev ( RacingGame )\bin\Debug\ElezthemGameDev ( RacingGame ).exe
+C:\Users\Acer\source\repos\ElezthemGameDev ( RacingGame )\ElezthemGameDev ( RacingGame )\bin\Debug\ElezthemGameDev ( RacingGame ).pdb
+C:\Users\Acer\source\repos\ElezthemGameDev ( RacingGame )\ElezthemGameDev ( RacingGame )\obj\Debug\ElezthemGameDev ( RacingGame ).csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ElezthemGameDev ( RacingGame )\ElezthemGameDev ( RacingGame )\obj\Debug\ElezthemGameDev ( RacingGame ).csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\ElezthemGameDev ( RacingGame )\ElezthemGameDev ( RacingGame )\obj\Debug\ElezthemGameDev___RacingGame__.Form1.resources
+C:\Users\Acer\source\repos\ElezthemGameDev ( RacingGame )\ElezthemGameDev ( RacingGame )\obj\Debug\ElezthemGameDev___RacingGame__.Properties.Resources.resources
+C:\Users\Acer\source\repos\ElezthemGameDev ( RacingGame )\ElezthemGameDev ( RacingGame )\obj\Debug\ElezthemGameDev ( RacingGame ).csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ElezthemGameDev ( RacingGame )\ElezthemGameDev ( RacingGame )\obj\Debug\ElezthemGameDev ( RacingGame ).csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ElezthemGameDev ( RacingGame )\ElezthemGameDev ( RacingGame )\obj\Debug\ElezthemGameDev ( RacingGame ).exe
+C:\Users\Acer\source\repos\ElezthemGameDev ( RacingGame )\ElezthemGameDev ( RacingGame )\obj\Debug\ElezthemGameDev ( RacingGame ).pdb
